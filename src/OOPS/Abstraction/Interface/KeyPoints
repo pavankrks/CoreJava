@@ -1,0 +1,23 @@
+>> Interface is like a contract where the implementation need functionality
+in order to achive standardization
+
+>>Ploymorphism plays an importtant role in interface,we are overriding the
+method implemented in interface,this helps to achive Code reduction,and performance
+
+>>Interface is a collection of abstract classes and members
+
+>>Class need to be declare as abstract if we cant provide the functionality
+to interface methods
+
+>>Interface cant implement interface
+
+>>Class can implement interface
+
+>>Multiple inheritance is possible through interface,Because there is no \
+diamond shape problem
+
+>>Interface can extend another iterface
+
+>>A class can extend class and implement interface at the same time
+
+>>The varialbes are public static final in interface

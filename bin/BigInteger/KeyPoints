@@ -1,0 +1,34 @@
+>>Its an class from Math Package
+
+>>Ex:
+    BigInterger B = new BigInteger(String);//String data
+    BigInterger B = new BigInteger.valueOf(DataType);//any data
+
+>>Operations
+
+    A.add(B);
+    A.subtract(B);
+    A.multiply(B);
+    A.divide(B);
+    A.remainder(B);
+
+>>Comparisions
+
+    A = 10;
+    B = 5;
+    C = 10;
+
+    1. negative
+        B.compareTo(A);//-1
+
+    2. positive
+        A.compareTo(B);//1
+
+    3.equal
+        A.compareTo(C);//0
+
+>>Conversions
+
+    A.toString();
+    A.intValue();
+

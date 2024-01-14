@@ -1,0 +1,22 @@
+>> Access Specifiers are used to provide the visibiltiy of the members
+
+>>There are four Access Specifiers
+    1.public
+    2.Protected
+    3.default
+    4.private
+
+
+>>If we want universal access we can go for public
+
+>>If we wanted to give access to all generations
+    parent
+    child
+    another child class from another package
+
+>>If we wanted to give access to line up gernerations
+    parent
+    child
+
+>If we dont want anyone to access directly
+    parent

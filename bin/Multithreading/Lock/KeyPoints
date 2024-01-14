@@ -1,0 +1,9 @@
+>> Synchronized is used to hold one process until it completes
+    all the process
+>> If we are doing same tasks simultaneously some miscommunication
+    happens and it cant provide the expected results
+>>Basically it locks the current process until it complete its
+    execution
+>>With the help of Synchronized we can expect the results we wanted
+
+>>We have to use this only when we need.

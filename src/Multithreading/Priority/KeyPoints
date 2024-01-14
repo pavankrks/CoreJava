@@ -1,0 +1,21 @@
+
+Name:
+
+    default : Thread-0
+
+    t1.setName("Pavan");
+    t1.getName();
+
+Priority:
+
+    t1.setPriority();//default 5
+    t1.setPriority(Thread.MAX_PRIORITY); 10
+    t1.setPriority(Thread.MIN_PRIORITY); 1
+    t1.setPriority(Thread.NORM_PRIORITY); 5
+
+Read :
+
+    currentThread().getName();
+    currentThread().getPriority();
+
+
